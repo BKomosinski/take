@@ -1,0 +1,2 @@
+wwwroot\index.html
+C:\Users\bartl\OneDrive\Pulpit\Studia\6 semestr\IR\take1\lab7\WebApiAjax\wwwroot\index.html

@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bartl\\OneDrive\\Pulpit\\Studia\\6 semestr\\IR\\take1\\lab7\\WebApiAjax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEFDB07-19E6-45BF-9440-C738FDCE4F4E}|WebApiAjax.csproj|c:\\users\\bartl\\onedrive\\pulpit\\studia\\6 semestr\\ir\\take1\\lab7\\webapiajax\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECEFDB07-19E6-45BF-9440-C738FDCE4F4E}|WebApiAjax.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEFDB07-19E6-45BF-9440-C738FDCE4F4E}|WebApiAjax.csproj|c:\\users\\bartl\\onedrive\\pulpit\\studia\\6 semestr\\ir\\take1\\lab7\\webapiajax\\webapiajax.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ECEFDB07-19E6-45BF-9440-C738FDCE4F4E}|WebApiAjax.csproj|solutionrelative:webapiajax.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEFDB07-19E6-45BF-9440-C738FDCE4F4E}|WebApiAjax.csproj|c:\\users\\bartl\\onedrive\\pulpit\\studia\\6 semestr\\ir\\take1\\lab7\\webapiajax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEFDB07-19E6-45BF-9440-C738FDCE4F4E}|WebApiAjax.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECEFDB07-19E6-45BF-9440-C738FDCE4F4E}|WebApiAjax.csproj|c:\\users\\bartl\\onedrive\\pulpit\\studia\\6 semestr\\ir\\take1\\lab7\\webapiajax\\calcresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECEFDB07-19E6-45BF-9440-C738FDCE4F4E}|WebApiAjax.csproj|solutionrelative:calcresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiAjax",
+              "DocumentMoniker": "C:\\Users\\bartl\\OneDrive\\Pulpit\\Studia\\6 semestr\\IR\\take1\\lab7\\WebApiAjax\\WebApiAjax.csproj",
+              "RelativeDocumentMoniker": "WebApiAjax.csproj",
+              "ToolTip": "C:\\Users\\bartl\\OneDrive\\Pulpit\\Studia\\6 semestr\\IR\\take1\\lab7\\WebApiAjax\\WebApiAjax.csproj",
+              "RelativeToolTip": "WebApiAjax.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-09T08:58:19.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\bartl\\OneDrive\\Pulpit\\Studia\\6 semestr\\IR\\take1\\lab7\\WebApiAjax\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\bartl\\OneDrive\\Pulpit\\Studia\\6 semestr\\IR\\take1\\lab7\\WebApiAjax\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-09T08:57:07.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bartl\\OneDrive\\Pulpit\\Studia\\6 semestr\\IR\\take1\\lab7\\WebApiAjax\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bartl\\OneDrive\\Pulpit\\Studia\\6 semestr\\IR\\take1\\lab7\\WebApiAjax\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T08:49:35.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalcResult.cs",
+              "DocumentMoniker": "C:\\Users\\bartl\\OneDrive\\Pulpit\\Studia\\6 semestr\\IR\\take1\\lab7\\WebApiAjax\\CalcResult.cs",
+              "RelativeDocumentMoniker": "CalcResult.cs",
+              "ToolTip": "C:\\Users\\bartl\\OneDrive\\Pulpit\\Studia\\6 semestr\\IR\\take1\\lab7\\WebApiAjax\\CalcResult.cs",
+              "RelativeToolTip": "CalcResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T08:48:51.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
